@@ -23,6 +23,8 @@ Basic table example of a table with colspan:
 <tr><td>quux</td><td>quuz</td></tr>
 </tbody>
 </table>
+.
+--ftables --ftable-colspan
 ````````````````````````````````
 
 Only one digit are allowed:
@@ -44,6 +46,8 @@ Only one digit are allowed:
 <tr><td>quux</td><td>quuz</td></tr>
 </tbody>
 </table>
+.
+--ftables --ftable-colspan
 ````````````````````````````````
 
 The arrow character must follow without spaces:
@@ -65,4 +69,6 @@ The arrow character must follow without spaces:
 <tr><td>quux</td><td>quuz</td></tr>
 </tbody>
 </table>
+.
+--ftables --ftable-colspan
 ````````````````````````````````
